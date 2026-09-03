@@ -1,4 +1,4 @@
-## Unreleased patch
+## 3.4.3 - 2026-09-04
 
 - Upgraded `analyzer` to `<15.0.0`
 
