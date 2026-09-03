@@ -1,3 +1,7 @@
+## Unreleased patch
+
+- Upgraded `analyzer` to `<15.0.0`
+
 ## Unreleased fix
 
 - Depend on `test_api` instead of `test`. Riverpod only used `addTearDown`, which

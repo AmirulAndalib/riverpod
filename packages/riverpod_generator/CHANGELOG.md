@@ -1,3 +1,7 @@
+## Unreleased patch
+
+- Upgraded `analyzer` to `<15.0.0`
+
 ## 4.0.8 - 2026-07-28
 ### Dependency changes
 
@@ -20,10 +24,6 @@
 ### Dependency changes
 
 - `riverpod_annotation` upgraded to `4.0.4`
-
-## Unreleased
-
-- Upgraded `analyzer` to `<15.0.0`
 
 ## 4.0.4 - 2026-06-10
 
