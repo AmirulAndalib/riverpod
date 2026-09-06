@@ -1,3 +1,9 @@
+## Unreleased minor
+
+- Added `prefer_keep_alive_annotation`, which warns when the body of a generated
+  provider starts with `ref.keepAlive()`, and suggests `@Riverpod(keepAlive: true)`
+  instead (#3855).
+
 ## 3.1.9 - 2026-09-04
 
 - Upgraded `analyzer` to `<15.0.0`
